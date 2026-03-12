@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohdmubasheer
-- 👀 I’m interested in Penetration testing, Ethical Hacking 
+- 👀 I’m interested in SOC, Ethical Hacking 
 - 🌱 I’m currently learning BE CSE
 - 💞️ I’m looking to collaborate on doing work
 - 📫 How to reach me ...
